@@ -1,7 +1,11 @@
 ---
+title: A Full and Comprehensive Style Test(Korean ver.)
+date: 2016-08-14 00:00:00 Z
+tags:
+- 샘플 포스트
+- 테스트
+- 스타일
 layout: post
-title: "A Full and Comprehensive Style Test(Korean ver.)"
-tags: [샘플 포스트, 테스트, 스타일]
 comments: true
 ---
 

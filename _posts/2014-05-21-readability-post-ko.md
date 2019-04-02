@@ -1,7 +1,11 @@
 ---
+title: Testing Readability with a Bunch of Text(Korean ver.)
+date: 2014-05-21 00:00:00 Z
+tags:
+- 샘플 포스트
+- 가독성
+- 테스트
 layout: post
-title: "Testing Readability with a Bunch of Text(Korean ver.)"
-tags: [샘플 포스트, 가독성, 테스트]
 comments: true
 ---
 

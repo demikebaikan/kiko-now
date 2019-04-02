@@ -1,7 +1,11 @@
 ---
+title: Syntax Highlighting Post
+date: 2015-08-16 00:00:00 Z
+tags:
+- sample post
+- code
+- highlighting
 layout: post
-title: "Syntax Highlighting Post"
-tags: [sample post, code, highlighting]
 comments: true
 ---
 

@@ -1,7 +1,10 @@
 ---
+title: A Full and Comprehensive Style Test
+date: 2016-08-15 00:00:00 Z
+tags:
+- test
+- style
 layout: post
-title: "A Full and Comprehensive Style Test"
-tags: [test, style]
 comments: true
 ---
 

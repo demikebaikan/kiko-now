@@ -1,7 +1,12 @@
 ---
+title: Testing Readability with a Bunch of Text
+date: 2014-05-22 00:00:00 Z
+tags:
+- sample post
+- readability
+- test
+- intro
 layout: post
-title: "Testing Readability with a Bunch of Text"
-tags: [sample post, readability, test, intro]
 comments: true
 ---
 
