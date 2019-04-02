@@ -1,6 +1,6 @@
 ---
 title: Kiko Now
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -53,7 +53,7 @@ kramdown:
   syntax_highlighter_opts:
     css_class: highlight
 sass:
-  style: :expanded
+  style: expanded
 plugins:
 - jekyll-sitemap
 - jekyll-feed
