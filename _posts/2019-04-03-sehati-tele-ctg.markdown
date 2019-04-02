@@ -7,3 +7,4 @@ tags:
 - Jakarta Selatan
 ---
 
+Lorem ipsum keren sekali
